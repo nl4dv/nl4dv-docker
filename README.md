@@ -10,7 +10,7 @@ docker pull arpitnarechania/nl4dv
 
 Run / start the container.
 ```bash
-docker-compose up
+docker run -p 8000:80 arpitnarechania/nl4dv:latest
 ```
 
 ### API Playground
