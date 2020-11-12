@@ -3,7 +3,7 @@ nl4dv-docker
 A docker container for [NL4DV](https://nl4dv.github.io/nl4dv/), an open-source python toolkit that converts a natural language query into data visualizations.
 
 ### Usage
-Pull the image from [Docker Hub](https://hub.docker.com/repository/docker/arpitnarechania/nl4dv)
+Pull the image from [Docker Hub](https://hub.docker.com/r/arpitnarechania/nl4dv)
 ```bash
 docker pull arpitnarechania/nl4dv
 ```
