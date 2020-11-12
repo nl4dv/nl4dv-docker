@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+    nl4dv-docker:
+        build: .
+        image: arpitnarechania/nl4dv
+        ports:
+            - "8000:80"
