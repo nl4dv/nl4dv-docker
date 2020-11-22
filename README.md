@@ -3,7 +3,7 @@ nl4dv-docker
 A docker container for [NL4DV](https://nl4dv.github.io/nl4dv/), an open-source python toolkit that converts a natural language query into data visualizations.
 
 ## Pre-requisite
-Install Docker by following the instructions on the [official website](https://docs.docker.com/get-docker/). Start the Docker environment.
+Install Docker by following the instructions on the [official website](https://docs.docker.com/get-docker/). Create a new environment and start it. To verify, type `docker images` in your command-line/terminal and it should return an <empty> list of images. If you are using the GUI, you can check the status of your environment in the [Docker Dashboard](https://docs.docker.com/desktop/dashboard/).
 
 ### Usage
 From the command-line OR the GUI, pull the **nl4dv** image from [Docker Hub](https://hub.docker.com/r/arpitnarechania/nl4dv)
