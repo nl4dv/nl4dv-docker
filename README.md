@@ -8,12 +8,12 @@ Install Docker by following the instructions on the [official website](https://d
 ### Usage
 From the command-line OR the GUI, pull the **nl4dv** image from [Docker Hub](https://hub.docker.com/r/arpitnarechania/nl4dv)
 ```bash
-docker pull arpitnarechania/nl4dv:2
+docker pull arpitnarechania/nl4dv:3
 ```
 
 Run / start the container.
 ```bash
-docker run -p 8000:80 arpitnarechania/nl4dv:2
+docker run -p 8000:80 arpitnarechania/nl4dv:3
 ```
 
 ### API Playground
