@@ -28,7 +28,10 @@ docker-compose up
 ```
 
 ### Credits
-<a target="_blank" href="https://www.cc.gatech.edu/~anarechania3">Arpit Narechania</a> and <a target="_blank" href="https://github.com/helt">@helt</a>.
+<a target="_blank" href="https://narechania.com">Arpit Narechania</a> and <a target="_blank" href="https://github.com/helt">@helt</a>.
 
 ### License
 The software is available under the [MIT License](https://github.com/nl4dv/nl4dv-docker/blob/master/LICENSE).
+
+### Contact
+If you have any questions, feel free to [open an issue](https://github.com/nl4dv/nl4dv-docker/issues/new/choose) or contact [Arpit Narechania](https://narechania.com).
